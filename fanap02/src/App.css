@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+/**********Start Card Css**********/
+.MuiCardHeader-content span:first-of-type{
+  height: 65px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+}
+.CardDes{
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 192px
+}
+.Album-media-10{
+  padding-top: 66.25%;
+}
+.READMORE{
+  text-align: left;
+  margin-left: 13px !important;
+  margin-top: 15px !important;
+  margin-bottom: 5px !important;
+}
+/**********End Card Css**********/
+/**********Start READMORE Css**********/
+
+.ReadmoreContainer{
+  display: flex !important;
+  margin: 15px auto;
+  flex-direction: column;
+  width: 1000px;
+  text-align: left;
+}
+
+.CustomHeader{
+  font-size: 13px;
+  text-align: left;
+  font-weight: bold;
+}
+.ImageHolder{
+  width: 100%;
+}
+/**********Start READMORE CSS**********/
